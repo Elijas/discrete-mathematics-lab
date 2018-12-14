@@ -1,4 +1,4 @@
-Source available in the file main.m, output available below.
+Source available in the file `main.m`, output available below.
 
 ```
 ats1 =  4464
